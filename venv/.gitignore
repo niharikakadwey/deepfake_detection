@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Dataset and models (too large for GitHub)
+dataset/
+models/
+*.pth
+*.pt
+
+# Uncertain / validated frames
+uncertain_cases/
+human_validated/
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
